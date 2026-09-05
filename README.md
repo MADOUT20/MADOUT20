@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student with a strong preference for clarity, structure, and logical thinking. I approach problems analytically, question things until they make sense, and avoid doing work just for the sake of appearances. I value depth over speed and believe understanding always comes before execution.
+I am a Computer Science student with a strong preference for clarity, structure, and logical thinking. I approach problems analytically, question things until they make sense, and avoid doing work just for the sake of appearances. I value depth over speed, but I also believe that real learning comes from taking difficult steps, making decisions, and dealing with what follows. I don’t wait for the perfect choice—I make a choice, commit to it, and make it right through execution, learning, and persistence.
 
 
 ## 🌐 Socials:
